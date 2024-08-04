@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-size: 35px;
+    color: aquamarine;
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 p{
+    font-size: 35px;
+    color: aquamarine;
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.immagerec {
+    width: 500px;
+    height: auto;
+}
+
+li {
+    font-size: 30px;
+}
+
+li .link {
+    color: green;
+}
